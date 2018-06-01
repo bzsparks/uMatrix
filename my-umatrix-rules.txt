@@ -3,13 +3,8 @@ matrix-off: about-scheme true
 matrix-off: behind-the-scene true
 matrix-off: chrome-extension-scheme true
 matrix-off: chrome-scheme true
-matrix-off: dolgen.net true
-matrix-off: dollargeneral.com true
-matrix-off: linkedin.com true
 matrix-off: moz-extension-scheme true
 matrix-off: opera-scheme true
-matrix-off: paloaltonetworks.com true
-matrix-off: www.linkedin.com true
 matrix-off: wyciwyg-scheme true
 noscript-spoof: * true
 referrer-spoof: * true
